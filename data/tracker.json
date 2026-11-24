@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T10:23:21.926Z",
+  "updated": "2026-11-24T13:32:17.049Z",
   "site": {
     "title": "PortWatch VI",
     "heroImage": "assets/img/hero.jpg",
@@ -592,9 +592,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 7350,
-        "forks": 962,
-        "openIssues": 580,
+        "stars": 8756,
+        "forks": 1185,
+        "openIssues": 682,
         "createdAt": "2026-11-23T21:47:25Z",
         "pushedAt": "2026-11-24T09:55:08Z",
         "commits7d": 100,
@@ -646,8 +646,8 @@
         "drycheetah84/TomBox"
       ],
       "stats": {
-        "stars": 1736,
-        "forks": 112,
+        "stars": 1755,
+        "forks": 117,
         "openIssues": 145,
         "createdAt": "2026-11-21T08:08:39Z",
         "pushedAt": "2026-11-23T11:58:17Z",
@@ -697,11 +697,11 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 5884,
-        "forks": 715,
-        "openIssues": 609,
+        "stars": 6640,
+        "forks": 820,
+        "openIssues": 711,
         "createdAt": "2026-11-20T20:03:21Z",
-        "pushedAt": "2026-11-24T10:10:05Z",
+        "pushedAt": "2026-11-24T13:31:22Z",
         "commits7d": 100,
         "archived": false,
         "missing": false,
@@ -709,7 +709,7 @@
       },
       "assessedAt": "2026-11-24",
       "assessedBy": "claude",
-      "readmeSha": "fd218660e182017f1893ad2b1b865e8f8d9c95bb8862908c93e3a9d8109ce5d6",
+      "readmeSha": "178614e62e1de7f621aed492d0e0825315d1075cb6a9e688cc2f39187517852a",
       "claims": [],
       "readmeChangedAt": "2026-11-24"
     },
@@ -749,8 +749,8 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 248,
-        "forks": 24,
+        "stars": 247,
+        "forks": 25,
         "openIssues": 29,
         "createdAt": "2026-11-20T06:54:47Z",
         "pushedAt": "2026-11-22T10:38:07Z",
@@ -800,9 +800,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 231,
-        "forks": 15,
-        "openIssues": 6,
+        "stars": 260,
+        "forks": 17,
+        "openIssues": 22,
         "createdAt": "2026-11-21T12:07:28Z",
         "pushedAt": "2026-11-24T07:22:08Z",
         "commits7d": 100,
@@ -963,9 +963,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 76,
-        "forks": 10,
-        "openIssues": 15,
+        "stars": 79,
+        "forks": 11,
+        "openIssues": 16,
         "createdAt": "2026-11-21T14:35:25Z",
         "pushedAt": "2026-11-24T06:47:57Z",
         "commits7d": 100,
@@ -1013,8 +1013,8 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 34,
-        "forks": 3,
+        "stars": 36,
+        "forks": 4,
         "openIssues": 2,
         "createdAt": "2026-11-20T23:54:18Z",
         "pushedAt": "2026-11-24T00:30:36Z",
@@ -1064,18 +1064,18 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 1743,
-        "forks": 189,
-        "openIssues": 98,
+        "stars": 1803,
+        "forks": 198,
+        "openIssues": 107,
         "createdAt": "2026-11-20T17:43:52Z",
-        "pushedAt": "2026-11-24T10:19:45Z",
+        "pushedAt": "2026-11-24T13:32:20Z",
         "commits7d": 100,
         "archived": false,
         "missing": false
       },
       "assessedAt": "2026-11-24",
       "assessedBy": "manual",
-      "readmeSha": "68d58129e00aba0927d08e10202b7b26cea0c05ca4442f29bedcccd2b9bb007f",
+      "readmeSha": "92237686613cd7afad84087149d323c6a140d6116fbff7ae88b69e5c50f98747",
       "claims": [],
       "readmeChangedAt": "2026-11-24"
     },
@@ -1114,19 +1114,24 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 99,
-        "forks": 8,
-        "openIssues": 17,
+        "stars": 141,
+        "forks": 16,
+        "openIssues": 27,
         "createdAt": "2026-11-21T00:18:13Z",
-        "pushedAt": "2026-11-24T10:14:57Z",
+        "pushedAt": "2026-11-24T12:29:53Z",
         "commits7d": 100,
         "archived": false,
         "missing": false
       },
       "assessedAt": "2026-11-24",
       "assessedBy": "claude",
-      "readmeSha": "1aebbcea1cc212770336fb5bc6f1081148394f4c9aea72ca5b760e018a6248e1",
-      "claims": [],
+      "readmeSha": "c29da2891f3d6159b451b8a811f5661b82c47f25e6c0512e508123bf4a8761e7",
+      "claims": [
+        {
+          "milestone": "fps30",
+          "text": "- ✅ The Xbox Series 1.0.2.1 build of GTA VI launches on PC: boot, profile screen, first-run settings, legal screens, loading, pause menu. Menus run at 30 fps."
+        }
+      ],
       "readmeChangedAt": "2026-11-24"
     },
     {
@@ -1165,9 +1170,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 210,
+        "stars": 214,
         "forks": 11,
-        "openIssues": 9,
+        "openIssues": 10,
         "createdAt": "2026-11-20T00:25:27Z",
         "pushedAt": "2026-11-23T19:24:06Z",
         "commits7d": 100,
@@ -1212,19 +1217,20 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 56,
+        "stars": 58,
         "forks": 5,
-        "openIssues": 2,
+        "openIssues": 0,
         "createdAt": "2026-11-19T20:32:01Z",
-        "pushedAt": "2026-11-24T01:21:39Z",
-        "commits7d": 37,
+        "pushedAt": "2026-11-24T13:09:35Z",
+        "commits7d": 40,
         "archived": false,
         "missing": false
       },
       "assessedAt": "2026-11-21",
       "assessedBy": "manual",
-      "readmeSha": "389a469e15237a40db8d4453b30dbe2e89534894130603298aefcf3dae7fe7d3",
-      "claims": []
+      "readmeSha": "bf7af157055b4e3bfcbaddf92b9e19869e59359ac018ab758501045ec9bddde1",
+      "claims": [],
+      "readmeChangedAt": "2026-11-24"
     },
     {
       "id": "anyxboxseries",
@@ -1358,7 +1364,7 @@
       "verification": "self-reported",
       "stats": {
         "stars": 10,
-        "forks": 2,
+        "forks": 3,
         "openIssues": 11,
         "createdAt": "2026-11-20T19:20:23Z",
         "pushedAt": "2026-11-23T07:20:39Z",
@@ -1407,9 +1413,9 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 36,
-        "forks": 2,
-        "openIssues": 7,
+        "stars": 37,
+        "forks": 3,
+        "openIssues": 8,
         "createdAt": "2026-11-21T16:49:38Z",
         "pushedAt": "2026-11-24T09:38:35Z",
         "commits7d": 73,
@@ -1454,8 +1460,8 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 4,
-        "forks": 0,
+        "stars": 5,
+        "forks": 1,
         "openIssues": 0,
         "createdAt": "2026-11-20T09:03:21Z",
         "pushedAt": "2026-11-20T09:35:39Z",
@@ -1501,7 +1507,7 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 1,
+        "stars": 2,
         "forks": 1,
         "openIssues": 12,
         "createdAt": "2026-11-21T21:05:28Z",
@@ -1551,7 +1557,7 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 1,
+        "stars": 3,
         "forks": 0,
         "openIssues": 3,
         "createdAt": "2026-11-22T07:31:37Z",
@@ -1602,7 +1608,7 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 1,
+        "stars": 2,
         "forks": 0,
         "openIssues": 0,
         "createdAt": "2026-11-22T14:40:55Z",
@@ -1651,7 +1657,7 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 2,
+        "stars": 3,
         "forks": 0,
         "openIssues": 0,
         "createdAt": "2026-11-22T15:09:24Z",
@@ -1700,12 +1706,12 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 3,
+        "stars": 4,
         "forks": 0,
         "openIssues": 0,
         "createdAt": "2026-11-23T02:45:46Z",
-        "pushedAt": "2026-11-24T09:48:40Z",
-        "commits7d": 16,
+        "pushedAt": "2026-11-24T13:25:41Z",
+        "commits7d": 18,
         "archived": false,
         "missing": false
       },
@@ -1755,10 +1761,10 @@
         "forks": 0,
         "openIssues": 55,
         "createdAt": "2026-11-22T20:45:44Z",
-        "pushedAt": "2026-11-23T23:20:01Z",
+        "pushedAt": "2026-11-24T09:01:37Z",
         "commits7d": 5,
         "archived": false,
-        "missing": true,
+        "missing": false,
         "missingStatus": 404
       },
       "assessedAt": "2026-11-23",
@@ -1803,11 +1809,11 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 55,
+        "stars": 60,
         "forks": 3,
         "openIssues": 1,
         "createdAt": "2026-11-21T04:47:46Z",
-        "pushedAt": "2026-11-24T09:04:06Z",
+        "pushedAt": "2026-11-24T13:04:35Z",
         "commits7d": 100,
         "archived": false,
         "missing": false,
@@ -1855,11 +1861,11 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 88,
+        "stars": 101,
         "forks": 4,
         "openIssues": 2,
         "createdAt": "2026-11-23T09:57:42Z",
-        "pushedAt": "2026-11-24T10:14:42Z",
+        "pushedAt": "2026-11-24T12:32:20Z",
         "commits7d": 100,
         "archived": false,
         "missing": false
@@ -1867,7 +1873,7 @@
       "assessedAt": "2026-11-24",
       "assessedBy": "claude",
       "claims": [],
-      "readmeSha": "5e84916bebdf6b96faf9499ba17c7ac65fb7a1e30c1f4fbba067df38be1fa450",
+      "readmeSha": "26e2cc2fbc4ad2800a2c9579c06d28e794795b1ed71b9f9b775329bbc8fe1a23",
       "readmeChangedAt": "2026-11-24"
     },
     {
@@ -1955,7 +1961,7 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 37,
+        "stars": 38,
         "forks": 2,
         "openIssues": 1,
         "createdAt": "2026-11-23T16:34:11Z",
@@ -2005,11 +2011,11 @@
       },
       "verification": "self-reported",
       "stats": {
-        "stars": 103,
-        "forks": 48,
-        "openIssues": 3,
+        "stars": 116,
+        "forks": 51,
+        "openIssues": 5,
         "createdAt": "2026-11-23T22:56:30Z",
-        "pushedAt": "2026-11-24T10:13:53Z",
+        "pushedAt": "2026-11-24T13:04:09Z",
         "commits7d": 100,
         "archived": false,
         "missing": false,
@@ -2018,7 +2024,7 @@
       "assessedAt": "2026-11-24",
       "assessedBy": "claude",
       "claims": [],
-      "readmeSha": "7c8e7a77dd65aa72d5cdf169a0027a2629c1fa136f6231f47df9a7a4e3aacd9f",
+      "readmeSha": "6882b81383210c06a620fe985f75f4097c82ffcca4599ebd5357756a9144ddc6",
       "readmeChangedAt": "2026-11-24"
     }
   ],
@@ -2029,8 +2035,8 @@
       "kind": "Archive toolkit",
       "desc": "Python RPF9 toolkit: rebuilds archive entries from verified payloads, decodes audio and the script schema.",
       "stats": {
-        "stars": 4,
-        "pushedAt": "2026-11-24T10:14:36Z"
+        "stars": 6,
+        "pushedAt": "2026-11-24T13:08:48Z"
       }
     },
     {
@@ -2049,8 +2055,8 @@
       "kind": "Asset extractor",
       "desc": "CLI and desktop app: models to glTF, textures and map data from your own install.",
       "stats": {
-        "stars": 89,
-        "pushedAt": "2026-11-24T10:17:11Z"
+        "stars": 93,
+        "pushedAt": "2026-11-24T13:28:05Z"
       }
     },
     {
@@ -2059,8 +2065,8 @@
       "kind": "Archive explorer",
       "desc": "Fast Rust RPF9 explorer with a Bink2 player and ADAT Opus audio decoder.",
       "stats": {
-        "stars": 93,
-        "pushedAt": "2026-11-22T21:40:20Z"
+        "stars": 96,
+        "pushedAt": "2026-11-24T11:28:57Z"
       }
     },
     {
@@ -2069,7 +2075,7 @@
       "kind": "Archive explorer",
       "desc": "Windows RPF explorer with model, texture, audio and video previews. Leonida builds on its decoders.",
       "stats": {
-        "stars": 89,
+        "stars": 92,
         "pushedAt": "2026-11-24T07:58:59Z"
       }
     },
@@ -2079,7 +2085,7 @@
       "kind": "Texture codec",
       "desc": "Clean-room decoder for Xbox BCPack textures. BC1 works; BC7 in progress.",
       "stats": {
-        "stars": 13,
+        "stars": 14,
         "pushedAt": "2026-11-24T03:07:25Z"
       }
     },
@@ -2100,7 +2106,7 @@
       "kind": "Texture tool",
       "desc": "View, export and replace .ttpf textures; Bink video playback.",
       "stats": {
-        "stars": 11,
+        "stars": 12,
         "pushedAt": "2026-11-23T11:06:22Z"
       }
     },
@@ -2110,7 +2116,7 @@
       "kind": "Format notes",
       "desc": "Format notes for RPF9, textures, BCPack, models and map data.",
       "stats": {
-        "stars": 6,
+        "stars": 8,
         "pushedAt": "2026-11-20T20:52:02Z"
       }
     },
@@ -2120,8 +2126,8 @@
       "kind": "Curated list",
       "desc": "Running list of open-source GTA VI reverse-engineering tools and layers.",
       "stats": {
-        "stars": 628,
-        "pushedAt": "2026-11-24T03:06:55Z"
+        "stars": 648,
+        "pushedAt": "2026-11-24T13:19:49Z"
       }
     },
     {
@@ -2130,7 +2136,7 @@
       "kind": "Asset explorer",
       "desc": "Read-only Python toolkit: browse your packages and extract textures, audio, video and shaders.",
       "stats": {
-        "stars": 8,
+        "stars": 10,
         "pushedAt": "2026-11-24T06:18:30Z"
       }
     },
@@ -2140,7 +2146,7 @@
       "kind": "World viewer",
       "desc": "From-scratch macOS engine (Swift, Metal) that renders the map, vegetation and weather from your own archives.",
       "stats": {
-        "stars": 16,
+        "stars": 18,
         "pushedAt": "2026-11-22T12:37:16Z"
       }
     },
@@ -2150,7 +2156,7 @@
       "kind": "Data decoder",
       "desc": "Decodes the script and animation archives (PSO data, animations) with glTF export.",
       "stats": {
-        "stars": 2,
+        "stars": 3,
         "pushedAt": "2026-11-24T03:07:23Z"
       }
     },
@@ -2160,7 +2166,7 @@
       "kind": "Audio extractor",
       "desc": "Pulls music streams (AWC) out of RPF9 archives.",
       "stats": {
-        "stars": 4,
+        "stars": 5,
         "pushedAt": "2026-11-24T09:47:59Z"
       }
     },
@@ -2170,8 +2176,8 @@
       "kind": "Format research",
       "desc": "RPF9 format notes, catalogues and tooling.",
       "stats": {
-        "stars": 6,
-        "pushedAt": "2026-11-23T21:31:39Z"
+        "stars": 7,
+        "pushedAt": "2026-11-24T13:22:28Z"
       }
     },
     {
@@ -2180,7 +2186,7 @@
       "kind": "Format research",
       "desc": "Spanish-language reverse engineering of the RPF9 header, table of contents and name table.",
       "stats": {
-        "stars": 2,
+        "stars": 4,
         "pushedAt": "2026-11-24T04:57:15Z"
       }
     },
@@ -2190,7 +2196,7 @@
       "kind": "Asset explorer",
       "desc": "Desktop explorer for the map, models, animations, movies and sound in your own copy.",
       "stats": {
-        "stars": 4,
+        "stars": 6,
         "pushedAt": "2026-11-22T20:35:26Z"
       }
     },
@@ -2211,8 +2217,8 @@
       "kind": "Test tools",
       "desc": "GPU probes, VM scripts and patches for XCL, for testing in a sandboxed VM.",
       "stats": {
-        "stars": 1,
-        "pushedAt": "2026-11-24T04:45:10Z"
+        "stars": 3,
+        "pushedAt": "2026-11-24T13:32:27Z"
       }
     },
     {
@@ -2221,7 +2227,7 @@
       "kind": "Build inspector",
       "desc": "Rust desktop tool that inventories an unpacked Xbox Series build read-only and checks RPF9 headers and open data ranges. Russian-language docs.",
       "stats": {
-        "stars": 2,
+        "stars": 4,
         "pushedAt": "2026-11-23T18:20:58Z"
       }
     }
@@ -2445,6 +2451,54 @@
       "status": "new"
     },
     {
+      "repo": "ZigZagBoi1/ScarlettPort",
+      "name": "ScarlettPort",
+      "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+      "language": "Rust",
+      "stars": 40,
+      "createdAt": "2026-11-24T09:36:26Z",
+      "pushedAt": "2026-11-24T13:13:33Z",
+      "defaultBranch": "main",
+      "sources": [
+        "GitHub search"
+      ],
+      "links": [],
+      "foundAt": "2026-11-24T13:32:17.049Z",
+      "substance": 91,
+      "signals": [
+        "Rust",
+        "11 technical terms",
+        "status table",
+        "15 commits/7d"
+      ],
+      "kind": "effort",
+      "status": "new"
+    },
+    {
+      "repo": "clevervi/palmetto",
+      "name": "palmetto",
+      "description": "Private fork of ItsNotRexed/Leonida (GPLv3): GTA VI Xbox Series to PC port. RDNA2 to SPIR-V, PE loader, D3D12 to Vulkan. No game data.",
+      "language": "Python",
+      "stars": 0,
+      "createdAt": "2026-11-22T20:28:08Z",
+      "pushedAt": "2026-11-24T13:00:56Z",
+      "defaultBranch": "main",
+      "sources": [
+        "GitHub search"
+      ],
+      "links": [],
+      "foundAt": "2026-11-24T13:32:17.049Z",
+      "substance": 91,
+      "signals": [
+        "Python",
+        "24 technical terms",
+        "status table",
+        "100+ commits/7d"
+      ],
+      "kind": "effort",
+      "status": "new"
+    },
+    {
       "repo": "gookie-dev/g6shim",
       "name": "g6shim",
       "description": "Clean-room replacements for console system DLLs that let console game executables run natively on Windows, without emulation. ",
@@ -2567,9 +2621,9 @@
       "name": "6Launch",
       "description": "Neonbridge: open-source GTA VI (GTA 6) launcher for Windows PC. Runs your own dumped Xbox Series X|S GDK build natively on D3D12, not emulated. Work in progress, no game files.",
       "language": "Rust",
-      "stars": 1,
+      "stars": 4,
       "createdAt": "2026-11-23T23:52:16Z",
-      "pushedAt": "2026-11-24T10:24:56Z",
+      "pushedAt": "2026-11-24T13:33:34Z",
       "defaultBranch": "main",
       "sources": [
         "GitHub search"
@@ -2633,6 +2687,29 @@
       "status": "new"
     },
     {
+      "repo": "ADWMC/gta6-windows-tracker",
+      "name": "gta6-windows-tracker",
+      "description": "Tracking efforts to run the leaked GTA 6 Xbox Series build on Windows: Leonida successors, xcl, and other ports — evidence-graded, no downloads.",
+      "language": null,
+      "stars": 2,
+      "createdAt": "2026-11-24T04:22:18Z",
+      "pushedAt": "2026-11-24T13:24:24Z",
+      "defaultBranch": "main",
+      "sources": [
+        "GitHub search"
+      ],
+      "links": [],
+      "foundAt": "2026-11-24T13:32:17.049Z",
+      "substance": 75,
+      "signals": [
+        "10 technical terms",
+        "status table",
+        "100+ commits/7d"
+      ],
+      "kind": "effort",
+      "status": "new"
+    },
+    {
       "repo": "Neverchange-dotcom/Leonida-Save",
       "name": "Leonida-Save",
       "description": "Leonida Local Save 11/23/2026 6:47 PM",
@@ -2676,6 +2753,29 @@
         "10 technical terms",
         "status table",
         "19 commits/7d"
+      ],
+      "kind": "effort",
+      "status": "new"
+    },
+    {
+      "repo": "dreaming66/VICauseway",
+      "name": "VICauseway",
+      "description": "An offline Windows compatibility layer for the Xbox Series X|S edition of Grand Theft Auto VI. Based on Marvisak/VIctory.",
+      "language": null,
+      "stars": 0,
+      "createdAt": "2026-11-24T05:41:26Z",
+      "pushedAt": "2026-11-24T05:38:05Z",
+      "defaultBranch": "main",
+      "sources": [
+        "GitHub search"
+      ],
+      "links": [],
+      "foundAt": "2026-11-24T13:32:17.049Z",
+      "substance": 71,
+      "signals": [
+        "7 technical terms",
+        "tests",
+        "100+ commits/7d"
       ],
       "kind": "effort",
       "status": "new"
@@ -2757,9 +2857,9 @@
       "name": "6ixlaunch",
       "description": "Neonbridge: open-source GTA VI (GTA 6) launcher for Windows PC. Runs your own dumped Xbox Series X|S GDK build natively on D3D12, not emulated. Work in progress, no game files.",
       "language": "Rust",
-      "stars": 1,
+      "stars": 4,
       "createdAt": "2026-11-23T23:52:16Z",
-      "pushedAt": "2026-11-24T10:24:56Z",
+      "pushedAt": "2026-11-24T13:33:34Z",
       "defaultBranch": "main",
       "sources": [
         "GitHub search"
@@ -2802,11 +2902,11 @@
     {
       "repo": "ZigZagBoi1/GTA6-PC-Native",
       "name": "GTA6-PC-Native",
-      "description": "Grand Theft Auto VI running natively on Windows from your own Xbox Series dump. No emulator: the game's x64 code runs on your CPU and its GPU code is recompiled for your card.",
+      "description": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
       "language": "Rust",
-      "stars": 15,
+      "stars": 42,
       "createdAt": "2026-11-24T09:36:26Z",
-      "pushedAt": "2026-11-24T09:36:36Z",
+      "pushedAt": "2026-11-24T13:13:33Z",
       "defaultBranch": "main",
       "sources": [
         "GitHub search"
@@ -2824,120 +2924,24 @@
       "status": "new"
     },
     {
-      "repo": "Github-Samuel/sixonpc",
-      "name": "sixonpc",
-      "description": "Does GTA VI run on PC yet? Port tracker, reverse-engineering tools and forum.",
-      "language": "TypeScript",
-      "stars": 0,
-      "createdAt": "2026-11-24T02:38:20Z",
-      "pushedAt": "2026-11-24T03:22:06Z",
-      "defaultBranch": "main",
-      "sources": [
-        "GitHub search"
-      ],
-      "links": [],
-      "foundAt": "2026-11-24T04:13:54.192Z",
-      "substance": 61,
-      "signals": [
-        "TypeScript",
-        "8 technical terms",
-        "5 commits/7d"
-      ],
-      "kind": "effort",
-      "status": "new"
-    },
-    {
-      "repo": "e85442695-beep/kestrel",
-      "name": "kestrel",
-      "description": "Console -> PC: static recompilation of the Xbox Series build of GTA VI. No game data.",
-      "language": "Batchfile",
-      "stars": 0,
-      "createdAt": "2026-11-24T09:37:26Z",
-      "pushedAt": "2026-11-24T10:03:11Z",
-      "defaultBranch": "main",
-      "sources": [
-        "GitHub search"
-      ],
-      "links": [],
-      "foundAt": "2026-11-24T10:23:21.926Z",
-      "substance": 59,
-      "signals": [
-        "Batchfile",
-        "11 technical terms",
-        "status table",
-        "3 commits/7d"
-      ],
-      "kind": "effort",
-      "status": "new"
-    },
-    {
-      "repo": "FQY55kai/leonida-gta6-pc-notes",
-      "name": "leonida-gta6-pc-notes",
-      "description": "Leonida: running the Xbox Series build of GTA VI on PC by static recompilation / PE manual mapping. Startup-chain debugging log, Xbox-to-PC D3D12 ABI slot tables, PE static analysis, and cross-validation against VIctory. No game assets included.",
-      "language": "Python",
+      "repo": "Archivist-Atlas/gta-vi-astral",
+      "name": "gta-vi-astral",
+      "description": "Mon propre recompiler GTA VI",
+      "language": "Go",
       "stars": 1,
-      "createdAt": "2026-11-24T07:19:46Z",
-      "pushedAt": "2026-11-24T07:21:36Z",
+      "createdAt": "2026-11-24T10:35:42Z",
+      "pushedAt": "2026-11-24T12:35:00Z",
       "defaultBranch": "main",
       "sources": [
         "GitHub search"
       ],
       "links": [],
-      "foundAt": "2026-11-24T07:38:20.823Z",
-      "substance": 56,
+      "foundAt": "2026-11-24T13:32:17.049Z",
+      "substance": 63,
       "signals": [
-        "Python",
-        "9 technical terms",
-        "status table",
-        "3 commits/7d"
-      ],
-      "kind": "effort",
-      "status": "new"
-    },
-    {
-      "repo": "nineforge0/forge9",
-      "name": "forge9",
-      "description": "General-purpose RPF9 archive toolkit — decrypt, inspect, extract, search, repack. The only tool with full TOC re-encryption.",
-      "language": "Rust",
-      "stars": 0,
-      "createdAt": "2026-11-24T07:08:37Z",
-      "pushedAt": "2026-11-24T07:33:56Z",
-      "defaultBranch": "main",
-      "sources": [
-        "GitHub search"
-      ],
-      "links": [],
-      "foundAt": "2026-11-24T07:38:20.823Z",
-      "substance": 55,
-      "signals": [
-        "Rust",
-        "7 technical terms",
-        "status table",
-        "2 commits/7d"
-      ],
-      "kind": "effort",
-      "status": "new"
-    },
-    {
-      "repo": "scarlett-commons/scarlett-commons",
-      "name": "scarlett-commons",
-      "description": "Open task board, verification bot and shared tests for Xbox Series X|S to PC compatibility layers",
-      "language": "Python",
-      "stars": 0,
-      "createdAt": "2026-11-24T08:50:46Z",
-      "pushedAt": "2026-11-24T10:07:21Z",
-      "defaultBranch": "main",
-      "sources": [
-        "GitHub search"
-      ],
-      "links": [],
-      "foundAt": "2026-11-24T10:23:21.926Z",
-      "substance": 51,
-      "signals": [
-        "Python",
-        "3 technical terms",
-        "status table",
-        "10 commits/7d"
+        "Go",
+        "20 technical terms",
+        "15 commits/7d"
       ],
       "kind": "effort",
       "status": "new"
@@ -3004,7 +3008,7 @@
       "id": "copies",
       "pattern": "Re-uploads of tracked projects under other accounts",
       "label": "",
-      "count": 49,
+      "count": 51,
       "reason": "Copies can be quietly modified to bundle malware. Only use the original repositories linked in the race above.",
       "members": [
         "FaelSemW/RafaVI",
@@ -3055,7 +3059,9 @@
         "Dinxthefirst/Leonida",
         "Hausekaos/xcl-vi",
         "bitovvnew/leonida",
-        "w1spo/xclayer"
+        "w1spo/xclayer",
+        "AdrianGM2001/Leonida",
+        "coco-chaneyey/Leonida"
       ]
     }
   ],
@@ -5219,74 +5225,73 @@
       "pushedAt": "2026-11-24T07:27:11Z"
     },
     {
+      "repo": "PlutonusDev/OpenEra",
+      "reason": "thin (substance 19)",
+      "auto": true,
+      "seenAt": "2026-11-24",
+      "pushedAt": "2026-11-24T12:51:17Z"
+    },
+    {
+      "repo": "aldr888/porto-sol",
+      "reason": "off-topic (original fan game, not a port)",
+      "auto": true,
+      "seenAt": "2026-11-24",
+      "pushedAt": "2026-11-24T13:29:18Z"
+    },
+    {
+      "repo": "imyatesy-cmd/gta6-pc-tracker",
+      "reason": "thin (substance 17)",
+      "auto": true,
+      "seenAt": "2026-11-24",
+      "pushedAt": "2026-11-24T12:29:10Z"
+    },
+    {
+      "repo": "noon-stucco7a/gta-game",
+      "reason": "off-topic (original fan game, not a port)",
+      "auto": true,
+      "seenAt": "2026-11-24",
+      "pushedAt": "2026-11-24T11:50:54Z"
+    },
+    {
+      "repo": "vextis/gta6-game",
+      "reason": "off-topic (original fan game, not a port)",
+      "auto": true,
+      "seenAt": "2026-11-24",
+      "pushedAt": "2026-11-24T11:21:04Z"
+    },
+    {
+      "repo": "AdrianGM2001/Leonida",
+      "reason": "copy of ItsNotRexed/Leonida",
+      "seenAt": "2026-11-24"
+    },
+    {
+      "repo": "coco-chaneyey/Leonida",
+      "reason": "copy of ItsNotRexed/Leonida",
+      "seenAt": "2026-11-24"
+    },
+    {
+      "repo": "NVIDIA/DLSS",
+      "reason": "off-topic (not about GTA VI or Xbox Series)",
+      "auto": true,
+      "seenAt": "2026-11-24",
+      "pushedAt": "2026-10-16T16:07:09Z"
+    },
+    {
       "repo": "DinosaurPlanetRecomp/dino-recomp",
       "reason": "off-topic (not about GTA VI or Xbox Series)",
       "auto": true,
       "seenAt": "2026-11-24",
       "pushedAt": "2026-11-23T05:51:15Z"
+    },
+    {
+      "repo": "gitlab.com/mytcyxy/nvwangtaiwanshuijun",
+      "reason": "off-topic (not about GTA VI or Xbox Series)",
+      "auto": true,
+      "seenAt": "2026-11-24",
+      "pushedAt": "2026-11-24T10:53:07.108Z"
     }
   ],
   "changes": [
-    {
-      "date": "2026-11-23",
-      "kind": "new",
-      "text": "Scout spotted fedor655/gta6-port (possible effort, substance 47)."
-    },
-    {
-      "date": "2026-11-23",
-      "kind": "new",
-      "text": "Scout spotted s1oapppp-sketch/gta6-scarlett-research-notes (possible effort, substance 43)."
-    },
-    {
-      "date": "2026-11-23",
-      "kind": "new",
-      "text": "Scout spotted VladTop46/XSX-Compat (possible effort, substance 45)."
-    },
-    {
-      "date": "2026-11-23",
-      "kind": "new",
-      "text": "Scout spotted PlayGta6Web/playgta6web (possible effort, substance 71)."
-    },
-    {
-      "date": "2026-11-23",
-      "kind": "new",
-      "text": "Marvis publishes his code as VIctory. Its README reports the menus at 30 fps and the world loading to a black screen; still unverified, it stays at 55%."
-    },
-    {
-      "date": "2026-11-23",
-      "kind": "up",
-      "text": "XCL reaches “Main menu”: fixes merged on its main branch get GTA VI (named by its exe in XCL's notes) to its first menus at 30 fps, and a controller press moves on to the settings (self-reported, no screenshot). Score 25% → 55%, level with VIctory."
-    },
-    {
-      "date": "2026-11-23",
-      "kind": "removed",
-      "text": "Leonida is nuked: its Discord vanished, its GitHub repo was deleted and its creator says he quit. It stays on the board for the record, no longer ranked."
-    },
-    {
-      "date": "2026-11-24",
-      "kind": "up",
-      "text": "TuxBox reaches “First frame”: a recorded run on Linux shows GTA VI's player-selection prompt at 4K (self-reported; no input sent yet). Score 25% → 40%."
-    },
-    {
-      "date": "2026-11-24",
-      "kind": "up",
-      "text": "PercyScarlett reaches “Exe runs”: GTA VI runs to a frame loop of black frames before the GPU hangs (self-reported). Score 3.4% → 25%; it stays on the watchlist."
-    },
-    {
-      "date": "2026-11-24",
-      "kind": "new",
-      "text": "GTA6-BootTest joins the watchlist at “Exe runs” (25%): stand-in DLLs run GTA VI's exe through its frame loop on Windows. Its first-UI-screen claim isn't credited until it shows a capture."
-    },
-    {
-      "date": "2026-11-24",
-      "kind": "new",
-      "text": "VIctory's README now reports the first mission's title card rendering in the world, with the scene still dark at under 2 fps. Not enough for “In-game”; it stays at 55%."
-    },
-    {
-      "date": "2026-11-24",
-      "kind": "removed",
-      "text": "AnyXboxSeries is no longer reachable on GitHub (HTTP 404)."
-    },
     {
       "date": "2026-11-24",
       "kind": "claim",
@@ -5626,6 +5631,66 @@
       "date": "2026-11-24",
       "kind": "new",
       "text": "Scout spotted utkarshxdev/xcl-mac (possible effort, substance 85)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "claim",
+      "text": "AnyXboxX's README may claim a new milestone (fps30): “- ✅ The Xbox Series 1.0.2.1 build of GTA VI launches on PC: boot, profile screen, first-run settings, legal screens, loa”"
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted ZigZagBoi1/ScarlettPort (possible effort, substance 91)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted ADWMC/gta6-windows-tracker (possible effort, substance 75)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted dreaming66/VICauseway (possible effort, substance 71)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted bstillbstill/xcl-hub (possible effort, substance 38)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted clevervi/palmetto (possible effort, substance 91)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted NUXX-G/gta6-pc-tracker (possible effort, substance 52)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted Guernica4u/GTA6-PC-Port-Archive (possible effort, substance 53)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted Archivist-Atlas/gta-vi-astral (possible effort, substance 63)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted glowku/GuetTA (possible effort, substance 48)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted Yhozen/series-web (possible effort, substance 55)."
+    },
+    {
+      "date": "2026-11-24",
+      "kind": "new",
+      "text": "Scout spotted SankeerthMallesh/GTA-6 (possible effort, substance 43)."
     }
   ],
   "history": [
@@ -5701,12 +5766,96 @@
       "xbox series emulator"
     ],
     "x": "(\"gta 6\" OR \"gta vi\" OR gta6) (recomp OR emulator OR \"pc port\" OR scarlett) github.com -is:retweet",
-    "lastRun": "2026-11-24T10:23:21.926Z",
-    "lastSummary": "25 refreshed, 8 READMEs changed, 8 new candidates, 2 flagged.",
-    "lastDmcaCheck": "2026-11-24T10:23:21.926Z",
+    "lastRun": "2026-11-24T13:32:17.049Z",
+    "lastSummary": "26 refreshed, 6 READMEs changed, 11 new candidates, 2 flagged.",
+    "lastDmcaCheck": "2026-11-24T13:32:17.049Z",
     "lastEditorRun": "2026-11-24T01:44:45.000Z"
   },
   "headlines": [
+    {
+      "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+      "outlet": "Decrypt",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb1c2cmVxclNfSVdlRElGWkd5Y3BvOExZaXNCZHRBVXFlUVZGSFQzc3JMeHBEcV91SzlPV3dub1RQYno2NVNWTUd5WUNSSFdNb1JyNm9takdYRXZHT3J5SE10MVFzVm9McDZPVWhENXpuY3hlVkthQzVDdkRSMklHcVByaHgzS2g1Qi1ZZjA3TjBHc25lTURmeDVmRQ?oc=5",
+      "date": "2026-11-24T13:01:30.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "GTA 6: This website lets you track the PC recompilation live",
+      "outlet": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV19YWWluMUpOY2w4Nmh5OUFyTUZNMlcyTnhmbFhQTHprc3UxdFJjNTFqRjc2Qjg2WThjRzZTTUdGandval9KX0phSkN1ZUJYa3pzdzZyWS1oa1lhSXVnYWhYOXItei1sOFBMa2EybFI0akdFUUQxdlBLaDVhb3hmWVZwVDQzTmZIdW1NUEZZSDhWTExwQS1fbUt0ZVVZY0pGUUVCWVg5WQ?oc=5",
+      "date": "2026-11-24T12:59:00.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "Hackers leak GTA 6 Xbox file, fueling PC speculation",
+      "outlet": "Kursiv Media",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOejI4UnN2T1lsemJheEpielp2clI5a2FSNjd0UkdCRTZ3SjZ6MWo3dnk2NlZCcVhOZ25PR1JWb01Zalhza0FpTFBxY2Fhd3hHa042TWlZNUtMQU5UTDdtYzhiLUtfUE1zSElPMEoxei14WHM3bnQ3c1hyOEltMUFCZjAwVjhmVUJpcDN3UmdLODRVWTFWM050eEpzZGpHQ1JUa1E?oc=5",
+      "date": "2026-11-24T12:52:22.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "Leaker Cyberleek Releases The Xbox Build Executable for GTA 6",
+      "outlet": "80 Level",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVc1ZmdkX0JXSFVTUkZSa3VrSGl3QVFwaWhCVkozU2VMSE90ejBJQUlRUmpMaFlzVjlqdU1LVHJKUVJrcThtNExWR2ltZV93SzdOeVdlSE5jc055MWswT1NucUhSRDViLWFDRmRocVM4N0pZeFkyck5kWXpuNnRscTlKZzZjT2RjU0lhQg?oc=5",
+      "date": "2026-11-24T12:38:35.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "'Like watching the Mona Lisa getting painted': Unofficial GTA 6 PC port makes rapid progress as game is now bootable — albeit in a rough state visually",
+      "outlet": "TechRadar",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWWFjNEp3S183SHRmNlFiZjJ5T19DVm9BUmxSSkl5cGR5cUdaal9GclRjRnB4YW9WWS0xdlJUX1hUeDl6bXUwS0tnU0xLVEZNRmF3WjRLUmFhamtISlo5TlYtSkQxcjlOOWV0dHlHcUMtakV2VndUMUtTc0swUTh1LUlNU0dmU0c2ekU5bnB3X1JTTUVhN2RYclgzcUVJcTZ4OW9zbTktSW94OTRlaGYwSWhUS1pSRUhxeDdvd0pnc09RRGp6VDk2Ym1PTGYzNzhueTJQdC1Id05EVVRwLU1fS2lnRVJlZkRPNzhSWkNRZkpVam5MeDVLbVd4Slpsa2JvazNRaE13?oc=5",
+      "date": "2026-11-24T12:18:13.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "GTA 6 unofficial PC port closer than ever as notorious leaker reportedly drops Xbox build",
+      "outlet": "PC Guide",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ19mVVY0QmF0SG92ekZtS0dpNGVqLWVmRm54TUx5MG1xVFlHUkR0bGlILV9HRTZqd0ZXYk5qRDB3Yll2X0Vucl9uVnM2LTA4RTUzUkl0UDJicmhtNHUzSDRpV2pORFdKTkRQQWtKeXIza0xBdjk3UURhUXhaU0pUNEFMTEhxd0gyX09VUE5XQV9UMWx0eDFLNHFqakRmV1ZwdVdYaTVRVllxTE5ZaHZ1M0JPSUxnNndnRS1V?oc=5",
+      "date": "2026-11-24T12:05:58.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "Grand Theft Auto 6 Unofficial PC Port CGBJ Now Reaches In-Game",
+      "outlet": "DSOGaming",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHh2MUJnWVAyLW5sWkFVR2oyTFhSUHVyS2hvSmNrWmZBSzBncGFnZVJzNlozYnl2VHI0Q0VzTENEWW5VdnR1dG93dndVNVNuTjlENWV3QmN6UzBTWHZiRVg3TDRjNW8wdE1ERkdxY2ZhU0RzczVseW1WSjRmMlNjaDktMnBiRTRESVZFYVU1MUVOMzl5aUJibjNn?oc=5",
+      "date": "2026-11-24T12:01:11.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+      "outlet": "Rock Paper Shotgun",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORFM5R25GM2xnSlNISUE0aXRxS19LdENvN29ZYWdSRDZVV3libm81WE82RzlUSGtqcGdXVTRNT3VwRUlEa1lQWERHOXFCSXhpVFNnTEdUWUlpeEM4bnJScUNJMGc1SUR4RHB6ZVIyVVM1a1ctM2g2RWt1SC1ERWhMZklBMWNDVG9XMkFmenFwcXFLUWNCWUl6Zk5yNUh0b3I2NVVLc2Q1T3VvWG13X0VqSjl4bkdvd1ZkZmkxMTFPOG5hbHNSbEIxaFJwcFlPdjZuV1JDckhsM2tzazYtb196NHVpYzRqSWlQUFRSV0MzTFRXN3NBdk9ndzFFajhmZXBBM2pxeDdfNWp0cTZkaklwS2IxZXYxalBkUEJjaG9vY3l5QmM?oc=5",
+      "date": "2026-11-24T11:38:50.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "'GTA 6' on PC update: What we know about when it releases",
+      "outlet": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
+      "date": "2026-11-24T11:36:01.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "GTA VI Is Coming To PC Thanks To Major Leak",
+      "outlet": "RockstarINTEL",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUGNDVmZKTXF1UVlPdUFMcFF3eGloRzc2eXlrNjJ1YXNQYW11SWhQcEVQUG9SUUpZRzB5eG0tcWxLRjFsdndzaHd5Nm9ISkN6S0JpUDZSVjNFanM0RUdfMEFLTEZlOXdiRDdOVkpMc0o2YnR3Q0hGMlhR?oc=5",
+      "date": "2026-11-24T11:14:31.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "Why isn't GTA 6 on PC? Rockstar's console-first habit, and why fans got it booting anyway",
+      "outlet": "Nacionale",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1A3NDFQakZMcGJ5MXFQanUwRG5MZGJFMnl0X1BTTWxFSVIyRWRHbmJtTlpxNTNoWElOVEV6RTNpXzhsNXEtQXRpZFN0QUN1cXo1QmxIbGlqQ3BWbHZ5WFp6M1A4RW9TQkV2dV9tSnlCMUhwOWZWbEdFTllfNTdXb1FPa0ZyT3I5XzhDMkpycUl5cVZXcmRKcG5DXy1mbGFxMXE4azU5c044OWNvWGplYQ?oc=5",
+      "date": "2026-11-24T11:11:30.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "GTA 6 fully pirated, but no PC can boot it (for now)",
+      "outlet": "Korben",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTFUwZzlmR2lYbmN4QzhRQXJvbWZxc0hla1JZVVJGbzREQ2V3MTFNYUc5a1JMOWtGRXlHWDRyWFJMVnl1Z3ZQSGJETlhXUkNmLVdVLWR5eVNxVnpwYXlIdUhtdmZ3WEdJS1ZsN2RnU0p0UGs?oc=5",
+      "date": "2026-11-24T09:27:00.000Z",
+      "via": "Google News"
+    },
     {
       "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
       "outlet": "Eurogamer.net",
@@ -5729,10 +5878,24 @@
       "via": "Google News"
     },
     {
+      "title": "GTA 6 PC project reportedly reaches in-game rendering",
+      "outlet": "VideoCardz.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXRHRVBrcVY1N3dUeV9YS01yRGhIOGY2NEU0aU5lZVNzaXJmdXJtQ2FiRUxNeEF6V3RQOE9mM1J2RUNIRGtHSVViS0tKZnVvZ0xOaUgyMGF1TEs2NEJaUy16R1RXX19hSHNaRGZSZHVZQjFuektYRElXZXFycFQ4V2Nkbm16VDhh?oc=5",
+      "date": "2026-11-24T08:36:07.000Z",
+      "via": "Google News"
+    },
+    {
       "title": "Is there a GTA 6 PC port? No official one, and fan port Leonida has shut down",
       "outlet": "Nacionale",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkhjSFRZbTY5eVRsMlRYV1JPQVZmQUVkMXBSZ1UxOTJ0OHNuM2RDa05nV1J5X1VEZXgwWGJxcTh4UWZuNEZIeWpYZWxBV0dJdXF4Ull3QU1WWURaTHA3SUVKSWRveTBrS2VncENMdTIxTXFUbjd0WlN5S0hoMU12QkwyUW1rcmtlLTJDcE9kbkJsd2lJRXh0TWw5Q1FsbS01akxldXFES2o?oc=5",
       "date": "2026-11-24T07:50:26.000Z",
+      "via": "Google News"
+    },
+    {
+      "title": "GTA 6 leaker releases alleged Xbox build executable, fuelling hopes of unofficial PC port",
+      "outlet": "The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3lSSHhTNFhteVpUTXYzUDhCbzlSN1JScWpNQjI4RE5BR082WDkyWEVnWGdpV2ItZU8tekIwSHZMM3lDZmJxVmxBWklvMUd4a05xVFNZNjNodTVPd1JHcUJkZkQ1bXJ0a1dYdG5sQnVfTXNEUm5zNV8tZkpQZ2d1LUZVbURVa3NBWkY0V0taUDBMTGlPMDRQLVUxLXNCcjlsOVBpVVdseXpDWVp4UUN2LVN2aUVpalJBcmtJbmMxbw?oc=5",
+      "date": "2026-11-24T07:01:46.000Z",
       "via": "Google News"
     },
     {
@@ -5741,6 +5904,13 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMU9JZjlvTHF4RUptYklaT0VuZmViX1B4LW13RHMzOWRyMlh0LVJZdF84aWpqR1V4Ym9GaGJLejBud1FzS3h2dmRYUWNiOV91dFZ3b2dOUVFuSjBHbG9uV0RQYldoMEU5U3NGWEFyaTE2STNydURmS0RSNkZtZjVxUElnbGJlSHppVGRwSUdXXzlFNEdfY0hKZ05sVHlPREhxNWF3LXZHRjJuTHo5V0ZJOWhaYjZRZw?oc=5",
       "date": "2026-11-24T06:12:54.000Z",
       "via": "Google News"
+    },
+    {
+      "title": "Waiting for GTA 6 on PC? These 5 games capture some of its magic",
+      "outlet": "PCWorld",
+      "link": "https://www.pcworld.com/article/3294201/waiting-for-gta-6-on-pc-these-5-games-capture-some-of-its-magic.html",
+      "date": "2026-11-24T05:00:00.000Z",
+      "via": "Bing News"
     },
     {
       "title": "GTA 6 leaker says the missing Xbox file is now out",
@@ -5757,11 +5927,32 @@
       "via": "Google News"
     },
     {
+      "title": "GTA 6 PC leak is real (hours away?)",
+      "outlet": "Amazon S3 on MSN",
+      "link": "https://www.msn.com/en-us/news/other/gta-6-pc-leak-is-real-hours-away/vi-AA2i7ujV",
+      "date": "2026-11-24T03:48:08.000Z",
+      "via": "Bing News"
+    },
+    {
       "title": "Sound has been added to the unofficial GTA VI PC port.",
       "outlet": "GameGPU",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUS1iTXRtdnFJWnlRdGRrU0xTU05TUzhYV0JwX25NUXNwckJ3RnlhU1I0cWNvUlRnLW5WRjBhQUMyYWJBRmZETUtpendyak5SaU1BSjAtT3A0RnRFV3ZWaGc3akNFcDQyQUljRnFtTlFDRVA3UHo2am94eTMxenozQTdWbjVsVW9EcEdyUw?oc=5",
       "date": "2026-11-24T03:39:37.000Z",
       "via": "Google News"
+    },
+    {
+      "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
+      "outlet": "GameSpot",
+      "link": "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/",
+      "date": "2026-11-24T03:23:00.000Z",
+      "via": "Bing News"
+    },
+    {
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+      "outlet": "GamesRadar+ on MSN",
+      "link": "https://www.msn.com/en-us/entertainment/gaming/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server/ar-AA2i83UZ",
+      "date": "2026-11-24T03:15:25.000Z",
+      "via": "Bing News"
     },
     {
       "title": "PlayStation Portal can cloud stream GTA 6 without PS5 console, but Sony blocks PCs",
@@ -5789,132 +5980,6 @@
       "outlet": "Around Prague",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUC1kdTVuVWY1cWg5b3ZQN0tlTkktdGhVM2JCaVFpNi0yc0JnWFRkaVB4NjdHOXl4RnAyZmU4WV9DNmt5TDB4T0xUbnRjWmxBeVhvVjZjc2p1UDNkOFlpWnQ4b2ROQlVZUzI0LVgtWjF5M3FJRGdBa2ttWFR1Z084UFZJTFNsRXpfRnBjX1NJUHd1RkdGaHdaZnF5UFNKTWFDd3dnSFpkZ0w?oc=5",
       "date": "2026-11-23T23:39:12.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 Xbox Executable Leaks Online as “Early Christmas Gift” from Cyberleek",
-      "outlet": "Comic Book Resources",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HSGZnbjcwSFJEd0hrdVN2SVkzQ3UwSHR5dWtKbWJRUGVZUnZiazZ2VGNVUFIzZk45aHByVE45eU9wNWcxUkRDUjJza1h5ajhwdWI4UEtrRnZLMGhsSW5tMnZvUGIwU2ZGV2c?oc=5",
-      "date": "2026-11-23T23:38:41.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "'GTA 6' on PC update: What we know about when it releases",
-      "outlet": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TdXBVeWdzSDFQU1VJdDRtWk81ck9yOVV6U0dEMEMycDFjQ084V244QmNBcDRMcDBCcWRRMGd0UlBqUTc4TjNackQwS0EzVC0xVDNlN1hISlRRMldhcEZYZ0ZZT2c2X1pxVFA0bVZKY0l1TXZqWFVJ?oc=5",
-      "date": "2026-11-23T23:23:37.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 Leaker Releases Xbox Game File, Raising Fears Of Unofficial PC Version",
-      "outlet": "ChannelNews.com.au",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTTg2WEJzVndBR1h1UHJoaE83U19kOUpsV1ZVOHB3U05iSlRoUW1hNS1ZNHJJS09wdXJnQnBtbWp5N25uQlVNTTI0bFpjcEVzc2RNOUV5T2huLUE3MDFNVkp4SGRZR0IzQ1Izb1h1T0lFYWtvYk53LWJsQ3hOV1pCVHJiUUZUQ2J2aWFxbC1TcHZlbGpfYkVBaWNCVVlnelYtb29oMEpSWTIxMFk?oc=5",
-      "date": "2026-11-23T23:12:54.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 has been out less than a week, and a full PC port is already on its way",
-      "outlet": "MakeUseOf",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hY2FoWFlsdnM1Y3pQRDhYWUpFT0NCck42dU9oMmNvN3FxODU4RWRoZWl6Y3hVSjc5QlVJTkIyQUtuNFR5RmR4ck90N1NWYVp2a0pIUzBBeHB3ZTJDOUx0ME91c0thTG1YWHJvQ0xHOA?oc=5",
-      "date": "2026-11-23T22:58:48.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 players found a '60 fps glitch', but it’s too unstable to stop me from wishing it was on PC already",
-      "outlet": "PC Gamer",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTGs3ZkwyeURma1lPUXN1LXo3eVA3NWRvSW4tdnRfTTYyMElLWW5jM0Q5RFVhQkN3Y1BpVnlseDBkSHRFQ0NkQXZCUUQ0QWd3N21Jci02dDhsRjZNR1FpY0xQWFRqazBoa3JyN195QXZsakhfU0xYc1lRbHRRWmhnaTZRbGZjbUpkMzhuREE2bWFUOUZxMHhsTVNtUXpaZ0FtNm9MZEFFSUkzeTVDYm9GY2VLTjVod2N4bktnbXNjcjA0WDdqbmdwVkcyRG1OZ0pVeU91NUJlVDF0cThJd2FyOGJycw?oc=5",
-      "date": "2026-11-23T22:47:08.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "Can't Wait to Live Stream GTA 6? This Trick Lets You Play It On Your PC Now",
-      "outlet": "PCMag",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxPR1ZzZWI2R3JRMGJGYlBSeHBOVjVfb2x2Uk9pYzY4ODQtOHNNSzVkOFdPX2hJX2E2QlNFWWRoaTdoMTZybzNaTHBzVWlYUFVzZDBISXJJcVdNc3JlS3BXM18tNmNOX3ZOelEwa0EtUElzTGUyUUFPYjVWQmJIeThEbVlXakk5THNEZTMtbEFDV2VhREd4MWxCc1lUVkw5QVE?oc=5",
-      "date": "2026-11-23T22:46:38.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "The missing piece needed to get the leaked GTA 6 Xbox build running on PC has reportedly surfaced online",
-      "outlet": "TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcGpyaVQ3b1Byc2NGZ2FLMEZUYmFscXJuT0J5bE9zVkE4aUg3TFA5VWRNejB6QjhwdGtsSE5rcHkwUUlsQ1p0S0JickxoZHhTODJDRXlhVmdTcHVFUVJOYldOWTJfc0lmRkloSXFKcVVobHMtUGEySGpmdG9kYmZPbTZ1MHN0OHBiNWFXU0RrZWdacHZZS0wwWklvTk5CNXBrdWJ4a2dNb0Q5YVZSWWNNeVA4UkQ2MHRLeWZjeXFMVDFjbnBQMV9mSU9ROUljODlYZFdhaDhLRmg3WGN4a2FjY3Y4UnRhYkhp?oc=5",
-      "date": "2026-11-23T21:45:13.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 boots on PC only 3 hours after Xbox executable leaked",
-      "outlet": "TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2FHVEZkNmdJcm56elFlRGliX2pDeXFydzdWa2RqVVRDUHh3ZUlsWDFiMnBjcTlJakluUVBfU0h2WUpxMzZYb1VORWcycXpxQmVyaHh2eDNOTml2eE84ci1SYVJuVTdLd1lPcE1QNE1NcjF4OFFFNXJFLU9OaHVSQjVMMHB4cGZnR3pFcW5SdzdESG1GeUFNTzVtYXd5NEFTNVdVWmFQUHhxaDhz?oc=5",
-      "date": "2026-11-23T21:33:10.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "I'm playing GTA 6 at 60fps on PC without paying for anything extra",
-      "outlet": "MakeUseOf",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FZy0yQU9ral9EdkdvMkJLRDJjaHdnanRpbjFHMWRYOGtXa3MwcFR0ZUs2eEtDQXhoeEQ0c0xfenNiM1J5dUhTQXR6MC1OQkZha3FzUVhyYmdaaUlmNkE?oc=5",
-      "date": "2026-11-23T21:30:16.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA VI Xbox Executable Released by CyberLeek on November 23: The 209GB Leak Is Complete",
-      "outlet": "stupidDOPE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckZyMUxkckpRZjR0WFdlRDhXQ0IwYUR3Y250STUtYTdTb3BQcXM0MkJLVmxRbDdEOEVzd0JidUNsMFU1NjU4WmNMTlhPaVlnSlhZZUxZMnBVOHBTUzN1VHNPaEU0T1ZDNDVhWTh2dEVHVjNidVRtRFZ3OVJfMVBrVlI0dW9oTmhZSFJYbVBMR0lPRUU1UWZYbnBNbXB6cDExX3g2RTVRdUY4RkcxTGxtbzJyWF9XOUxnS3c?oc=5",
-      "date": "2026-11-23T21:26:48.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 Leaker Releases Executable for Alleged Xbox Build",
-      "outlet": "news.lavx.hu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQjJRQVA4T2JoZDBOMWxaQjNlNFQ0Y2VFeTEzcFUzNVNhVzE3NWQwVTVwQ2QtTExUenhQWkMzY25veUhtUmJ0UVd5aGRBSlNLMkdUTVllNkxHT0taSUNQdGI1cnlyemF5bHBXME5vN0FWUkQ0andvVDdSSWw4anVPZ1lQWEdITEhNb1J5aA?oc=5",
-      "date": "2026-11-23T21:17:50.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA VI on PC: GTA 6 Xbox build reportedly leaks online, GitHub developers race to get it running",
-      "outlet": "News9Live on MSN",
-      "link": "https://www.msn.com/en-in/technology/software/gta-vi-on-pc-gta-6-xbox-build-reportedly-leaks-online-github-developers-race-to-get-it-running/ar-AA2i68rg",
-      "date": "2026-11-23T21:05:59.000Z",
-      "via": "Bing News"
-    },
-    {
-      "title": "Cyberleek Releases Missing GTA 6 Xbox Executable",
-      "outlet": "www.suaralandak.co.id",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nNk5MaVctZzdXYzJxQXhQanNYSHlpcmRMU0pibC1EWTVtSFF2ZnMyYnNoMmFaM3BiVUI5R3RfQ05xWnhQOFhhdnVYa1dPTzNzT09HMzZXSnN2bEU5ZFBscDJ4VW1sdnZjZlFaems1RlY?oc=5",
-      "date": "2026-11-23T20:37:00.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "Why did the GTA 6 hacker walk free? Arion Kurtaj got seven years but had already served most of it",
-      "outlet": "Nacionale",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWxLc1A3VjBwNEFZWkozRWFGZVd5aVhYUzNTS3B6N3VBRm1TVEZoblVCSF82dVRvb1c1cTB6b1M1QkduV3VpZjVBLXFMWUZzSlhmYVd4YmFCZVh3cGJGMENrS09zeXQwTGY2S295cS0tVG5DVDZXaTN4TEF6N1VubjJKR3FLRDVtTVhyVnBWeDl6VkJqaXVYOVd2NEJ1Tmp1NmxaVlV6Y2hzWVFNblZqekJHYw?oc=5",
-      "date": "2026-11-23T20:20:45.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "Want GTA VI on PC? Fake downloads and scams are everywhere – how to stay safe",
-      "outlet": "ZDNET",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQjM1MUJfalFTZzBHcm1QQklLRE5Ka1pQemluejRfMGtiUXBhV2p5bk84WHhsMjVWSE9JOU15YkxRUWZPM1VzUk9vUGxzYzY3aFNqYnJvOG55bjJ3azVCS1oxZ2VQcUdNcGpGODVjMkE?oc=5",
-      "date": "2026-11-23T20:15:00.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 Leaker Releases All Files for Alleged Xbox Build of Game",
-      "outlet": "PCMag",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOczZaRFpBMk1SbHEzZTgxUlpjN3UxREc4TzBvWGdPQWJfQlJLSnF5Zm14R0tYV0hvVHgzYWNlUTY0eGpmdzU5ZXRhcG5mZ2hOU1d6NlRueHFaMUU3SnJfTzFaaFhIY2d2Y2pJSHh4V0kzVVNjQWRCSFNaNTlsRlQ1dE1hV3hCdV9NZzJvZHBOc3hFX28?oc=5",
-      "date": "2026-11-23T20:07:34.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 Xbox Build Exe Leaked, PC Port Fears Grow",
-      "outlet": "Meteora Web",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWpJYmpJS09CQW56dzZac2RxMERsRVVHVWltX3E5WEJfamhZcjNxaGx2emZyZDdhbWhzVnp2REtnYTJHXzFrQXNVc2NlZHBWREZQM0JzT0JBVzlSTjFGMnQ5ektoOVpNc3l3cGUzQkdsd2sxc0xfeEhMRk0wRzZHSVZ0Ujdubnc?oc=5",
-      "date": "2026-11-23T20:03:24.000Z",
-      "via": "Google News"
-    },
-    {
-      "title": "GTA 6 PC port progressing at breakneck speed",
-      "outlet": "Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekhfZnpxejd4b0FQMHRZZXpicEtCSUY1UWxsVng2d3ZQb1FySU1Xa0ttSkx1MEZVTWdZMGFwbTVkdVFwT3NGV1FLeEtRckl3cnpHekxZcHh2X1NXb2JDdGQzOUlOeTVWOWJaSzhUS3RxQWg5bVRKbGtVdDR6MmltbUVfbXd0el81Z2pKRndhbV9UZEU?oc=5",
-      "date": "2026-11-23T20:01:00.000Z",
       "via": "Google News"
     }
   ],
